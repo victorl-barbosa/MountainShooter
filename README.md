@@ -35,8 +35,6 @@ O jogo possui três níveis (Level 1, Level 2, e Level 3) com backgrounds e inim
    - Inclusão de uma música exclusiva para o Level 3.
    - Implementação de Enemy3 como o único inimigo no Level 3 com movimentação diferenciada.
    
-3. **Assets**:
-   - Backgrounds e música de exemplo fornecidos via arquivo `.zip`.
 
 
 ## Requisitos do Projeto

@@ -35,13 +35,3 @@ O jogo possui três níveis (Level 1, Level 2, e Level 3) com backgrounds e inim
    - Inclusão de uma música exclusiva para o Level 3.
    - Implementação de Enemy3 como o único inimigo no Level 3 com movimentação diferenciada.
    
-
-
-## Requisitos do Projeto
-  - Game.py : Lógica principal do jogo
-  - Menu.py : Implementação do menu do jogo
-  - Level.py : Lógica dos niveis do jogo
-  - EntityFactory.py : Fabricação dos diferentes tipos de entidades no jogo
-  - Enemy.py : Implementação e comportamento dos inimigos
-
-
